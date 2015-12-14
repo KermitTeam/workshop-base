@@ -132,7 +132,7 @@ items:
       app: sample
     name: workshop
   spec:
-    host: workshop-workshop.kmt-dev4.orange-labs.fr
+    host: [DEFINE_YOUR_URL].kmt.orange-labs.fr
     port:
       targetPort: "8080"
     to:
